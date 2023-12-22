@@ -6,7 +6,7 @@ import pdfplumber
 
 # Or use `os.getenv('GOOGLE_API_KEY')` to fetch an environment variable.
 # GOOGLE_API_KEY=userdata.get('GOOGLE_API_KEY')
-api_key = 'AIzaSyBYnEM3fLsxTV4oX2-K3sCmAHVgfQy2fpg' # get this free api key from https://makersuite.google.com/
+api_key = '#####################' # get this free api key from https://makersuite.google.com/
 genai.configure(api_key=api_key)
 
 
